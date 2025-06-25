@@ -56,7 +56,7 @@ I'm a 3rd-year Biomedical Engineering student with a deep interest in backend de
 ## 📫 How to Reach Me
 
 - **Email:** abdelrahman.khalaf.321@gmail.com  
-- **LinkedIn:** [Abdelrahman Khalaf](https://www.linkedin.com/in/your-profile)  
+- **LinkedIn:** [Abdelrahman Khalaf](https://www.linkedin.com/in/abdelrahman-khalaf-243a782b7/)  
 - **GitHub:** [@Khalaf649](https://github.com/Khalaf649)
 
 ---
