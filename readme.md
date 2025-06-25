@@ -18,6 +18,7 @@ I'm a 3rd-year Biomedical Engineering student with a deep interest in backend de
 
 ### 🧠 Languages
 <p align="center">
+   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -54,7 +55,7 @@ I'm a 3rd-year Biomedical Engineering student with a deep interest in backend de
 
 ## 📫 How to Reach Me
 
-- **Email:** abdelrahman.khalaf.cs@gmail.com  
+- **Email:** abdelrahman.khalaf.321@gmail.com  
 - **LinkedIn:** [Abdelrahman Khalaf](https://www.linkedin.com/in/your-profile)  
 - **GitHub:** [@Khalaf649](https://github.com/Khalaf649)
 
@@ -104,4 +105,4 @@ I'm a 3rd-year Biomedical Engineering student with a deep interest in backend de
   - Explored machine learning approaches including **Supervised ML** and **Physics-Informed Neural Networks (PINNs)**  
   - Compared methods in terms of **accuracy**, **computational efficiency**, and **clinical relevance**  
   - 📈 Features detailed visualizations, analysis, and experimental findings  
-  ➤ *[View Report / Code](#)* ← *(Insert your link here)*
+    
