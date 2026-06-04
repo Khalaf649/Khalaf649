@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Gmail-abdlrhman.khalaf321-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/abdelrahman-khalaf">
+<a href="https://www.linkedin.com/in/abdelrahman-khalaf-243a782b7/">
   <img src="https://img.shields.io/badge/LinkedIn-abdelrahman--khalaf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
