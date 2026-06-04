@@ -159,7 +159,7 @@ Java         ████████████░░░░░░░░  Inter
 
 ---
 
-# `[05]` — GITHUB STATS
+## 📊 GitHub Stats
 
 <div align="center">
 
